@@ -338,7 +338,7 @@ img {
 
 /*========== MENU ==========*/
 .menu__container {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 2fr);
   justify-content: center;
 }
 
